@@ -47,16 +47,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-| 📈 My Contribution Stats | 🔥 Current Streak |
-| :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yah1d0&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=Yah1d0&theme=tokyonight) |
-
-| 🎯 Most Used Languages | 🏆 Earned Trophies |
-| :---: | :---: |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yah1d0&theme=tokyonight&layout=compact&include_all_commits=true&count_private=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=Yah1d0&theme=tokyonight&no-frame=false&margin-w=4) |
-
 ### 🛠️ Featured Projects
 
 <table width="100%">
