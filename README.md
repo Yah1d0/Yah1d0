@@ -3,10 +3,22 @@
 - 🎓 10th-grade student, self-taught — 1.5 years of programming, no courses, no bootcamps.
 - 🔭 Currently working on **[Saper Game](https://github.com/Yah1d0/Saper_Game)** — C++/SFML minesweeper with MVC-like architecture, BFS flood fill, dual-layer vertex arrays and hand-drawn textures.
 - 🔄 **[TypeFlow](https://github.com/Yah1d0/typeflow)** — adaptive typing trainer (Tauri + Svelte), currently being rewritten from scratch.
-- 🌱 Deepening knowledge in **Algorithms, Data Structures, and System Scripting**.
+- 🌱 Deepening knowledge in **Algorithms, Data Structures, System Scripting, and Cybersecurity** (OverTheWire Bandit).
 - 💬 My core stack is **C++ and TypeScript/Svelte** — everything else I know at a basic level or am actively learning.
 - 📫 Reach me: **[Telegram](https://t.me/Yahido_0)**
 - ⚡ Fun fact: I switch VS Code themes almost as often as programming languages. Currently oscillating between One Dark and Tokyo Night.
+
+---
+
+# 🏆 Achievements
+
+| Event | Result |
+|---|---|
+| CTF Cybersecurity Championship — KAI, Kyiv 🇺🇦 | 🥈 2nd place (team captain, all tasks solved) |
+| Programming Olympiad — KNU, Ukraine 🇺🇦 | 🥉 3rd place |
+| Infomatrix Bucharest 2025 🇷🇴 | International hackathon participant (team captain) |
+| All-Ukrainian Olympiad — MS Office / ICT 🇺🇦 | 🥉 3rd place (national final) |
+| Cybersecurity & ICT competitions 🇺🇦 | Multiple regional wins |
 
 ---
 
@@ -18,6 +30,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
 
 ### 📖 Basic / In Progress
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
