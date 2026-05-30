@@ -1,7 +1,8 @@
 # 💫 About Me
 
-- 🎓 10th-grade student, self-taught — no courses, no bootcamps, just curiosity and code.
-- 🔭 Currently working on **[Saper Game](https://github.com/Yah1d0/Saper_Game)** — a C++/SFML minesweeper with MVC-like architecture, dual-layer vertex arrays, BFS flood fill, and hand-drawn textures — and **[TypeFlow](https://github.com/Yah1d0/typeflow)** — an adaptive typing trainer built with Tauri + Svelte.
+- 🎓 10th-grade student, self-taught — 1.5 years of programming, no courses, no bootcamps.
+- 🔭 Currently working on **[Saper Game](https://github.com/Yah1d0/Saper_Game)** — C++/SFML minesweeper with MVC-like architecture, BFS flood fill, dual-layer vertex arrays and hand-drawn textures.
+- 🔄 **[TypeFlow](https://github.com/Yah1d0/typeflow)** — adaptive typing trainer (Tauri + Svelte), currently being rewritten from scratch.
 - 🌱 Deepening knowledge in **Algorithms, Data Structures, and System Scripting**.
 - 💬 My core stack is **C++ and TypeScript/Svelte** — everything else I know at a basic level or am actively learning.
 - 📫 Reach me: **[Telegram](https://t.me/Yahido_0)**
@@ -57,8 +58,29 @@
     <td width="50%" align="center">
       <br>
       <h3>⌨️ TypeFlow</h3>
-      <p>Tauri + Svelte · adaptive typing trainer<br>cross-platform desktop app</p>
+      <p>Tauri + Svelte · adaptive typing trainer<br>🔄 currently being rewritten from scratch</p>
       <a href="https://github.com/Yah1d0/typeflow"><strong>➥ View Repository</strong></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+### 📁 Also
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <br>
+      <h3>🛒 Store Website</h3>
+      <p>Python · Django · pet project</p>
+      <a href="https://github.com/Yah1d0/Store-website"><strong>➥ View Repository</strong></a>
+      <br><br>
+    </td>
+    <td width="50%" align="center">
+      <br>
+      <h3>🧩 Exercism</h3>
+      <p>Practice problems across multiple languages</p>
+      <a href="https://github.com/Yah1d0/Excercism"><strong>➥ View Repository</strong></a>
       <br><br>
     </td>
   </tr>
