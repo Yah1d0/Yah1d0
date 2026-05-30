@@ -12,13 +12,26 @@
 
 # 🏆 Achievements
 
+### 🔐 Cybersecurity
 | Event | Result |
 |---|---|
-| CTF Cybersecurity Championship — KAI, Kyiv 🇺🇦 | 🥈 2nd place (team captain, all tasks solved) |
+| CTF Championship — KAI, Kyiv 🇺🇦 | 🥈 Silver medal (team captain, perfect score) |
+| Online Cybersecurity Olympiad — KhNUIA 🇺🇦 | 🥉 3rd place |
+| International CTF (KAI rebranded) 🌍 | Finalist |
+
+### 💻 Programming & Algorithms
+| Event | Result |
+|---|---|
 | Programming Olympiad — KNU, Ukraine 🇺🇦 | 🥉 3rd place |
+| Cyberschool — KNU Faculty of Computer Science 🇺🇦 | Certificate (Dec 2025 – Apr 2026) |
 | Infomatrix Bucharest 2025 🇷🇴 | International hackathon participant (team captain) |
-| All-Ukrainian Olympiad — MS Office / ICT 🇺🇦 | 🥉 3rd place (national final) |
-| Cybersecurity & ICT competitions 🇺🇦 | Multiple regional wins |
+
+### 🖥️ IT / ICT
+| Event | Result |
+|---|---|
+| All-Ukrainian Olympiad in Information Technologies 🇺🇦 | 🥉 3rd place (national final) |
+| ICT Olympiad — KNU 🇺🇦 | 🥈 2nd place |
+| UFML Olympiad in IT 🇺🇦 | Finalist (national offline final) |
 
 ---
 
