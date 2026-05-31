@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- 🎓 10th-grade student, self-taught — dedicated programming, build-by-doing approach.
+- 🎓 Self-taught — dedicated programming, build-by-doing approach.
 - 🔭 Currently developing **[Saper Game](https://github.com/Yah1d0/Saper_Game)** — a high-performance C++/SFML minesweeper featuring an MVC-like architecture, BFS flood fill, dual-layer vertex arrays, and custom optimization.
 - 🔄 Corewriting **[TypeFlow](https://github.com/Yah1d0/typeflow)** — an adaptive typing trainer built with Tauri and Svelte.
 - 🌱 Deepening knowledge in **Algorithms, Data Structures, Systems Programming, and Cybersecurity** (OverTheWire Bandit, CTF challenges).
