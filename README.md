@@ -106,7 +106,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <h3><a href="https://github.com/Yah1d0/Exercism">🧩 Exercism Practice</a></h3>
+      <h3><a href="https://github.com/Yah1d0/Excercism">🧩 Exercism Practice</a></h3>
       <p>Multi-language problem solving<br>Collection of optimized algorithmic solutions across various tracks and languages.</p>
       <br>
     </td>
