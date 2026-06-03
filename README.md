@@ -35,7 +35,7 @@
 
 # 💻 Tech Stack
 
-```bytes
+```text
 Core:        C++17/20 | Python | Django | TypeScript | Svelte | Git
 Advanced IT: MS Excel | MS Access | MS Word | MS PowerPoint
 Learning:    Rust | C | C# | Bash | Linux (SSH/CLI)
