@@ -4,7 +4,6 @@
 - 🌱 Deepening knowledge in **Algorithms, Systems Programming, and Offensive Security** (CTFs, OverTheWire Bandit).
 - 💬 Primary stack: **C++ (17/20), Python (Django), and TypeScript (Svelte)**.
 - 📫 Reach me: **[Telegram](https://t.me/Yahido_0)**
-- ⚡ Fun fact: Oscillating between One Dark and Tokyo Night VS Code themes.
 
 ---
 
