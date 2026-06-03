@@ -12,7 +12,7 @@
 
 * 🔐 **Cybersecurity:** 🥈 Silver Medal @ Kyiv CTF Championship (Team Captain) · 🥉 3rd Place @ KhNUIA Cybersecurity Olympiad.
 * 💻 **Computer Science:** 🥉 3rd Place @ KNU Programming Olympiad · Infomatrix Bucharest International Hackathon Finalist.
-* 🖥️ **Information Technology:** 🥉 3rd Place @ All-Ukrainian IT Olympiad (National Final) · 🥈 3rd Place @ KNU Programming Olympiad.
+* 🖥️ **Information Technology:** 🥉 3rd Place @ All-Ukrainian IT Olympiad (National Final) · 🥈 2nd Place @ KNU IT Olympiad.
 
 ---
 
@@ -21,7 +21,7 @@
 ### 💣 [Saper Game](https://github.com/Yah1d0/Saper_Game)
 *High-performance C++/SFML minesweeper.*
 - **Tech:** C++20, SFML 3.x, Custom Optimization.
-- **Features:** MVC architecture, BFS flood fill, dual-layer vertex arrays for massive $1000 \times 1000$ grids.
+- **Features:** MVC architecture, BFS flood fill, dual-layer vertex arrays for massive 1000 x1000 grids.
 
 ### ⌨️ [TypeFlow](https://github.com/Yah1d0/typeflow)
 *Minimalist & adaptive typing trainer.*
@@ -40,3 +40,4 @@
 Core:        C++17/20 | Python | Django | TypeScript | Svelte | Git
 Advanced IT: MS Excel (INDEX/MATCH) | MS Access | MS Word | MS PowerPoint
 Learning:    Rust | C | C# | Bash | Linux (SSH/CLI)
+```
