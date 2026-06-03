@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- 🎓 **Self-taught developer** with a build-by-doing approach (codding since 2025).
+- 🎓 **Self-taught developer** with a build-by-doing approach (coding since 2025).
 - 🌱 Deepening knowledge in **Algorithms, Systems Programming, and Offensive Security** (CTFs, OverTheWire Bandit).
 - 💬 Primary stack: **C++ (17/20), Python (Django), and TypeScript (Svelte)**.
 - 📫 Reach me: **[Telegram](https://t.me/Yahido_0)**
